@@ -1,0 +1,4 @@
+# 폴더 무시
+__pycache__/
+cosinSimilarity/__pycache__
+module/__pycache__

@@ -16,8 +16,8 @@ def searchNaverShop(query):
         start = int(display) * i + 1
         url = "https://openapi.naver.com/v1/search/shop?query=" + query + "&display=" + display + "&start="+ str(start)
         request = urllib.request.Request(url)
-        request.add_header('X-Naver-Client-Id', "<Your-naverAPI-ID")
-        request.add_header('X-Naver-Client-Secret', "Your-naverAPI-Secret")
+        request.add_header('X-Naver-Client-Id', "<Your-naverAPI-ID>")
+        request.add_header('X-Naver-Client-Secret', "<Your-naverAPI-Secret>")
         response = urllib.request.urlopen(request)
         itemList.extend(json.loads(response.read().decode('utf-8'))["items"])
 
