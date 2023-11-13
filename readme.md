@@ -1,5 +1,5 @@
 # cloth_finder_socketServer
-!["result/404_시연영상.mp4"](result/404_시연영상.mp4)   
+!["result/404_시연영상.mp4"](https://github.com/HYLogs/cloth_finder_socketServer/assets/81233061/0a401c3f-9d19-48aa-ab39-1c2439f3e3d1)   
 
 ## 소개
 교내에서 2022-11에 열리는 Capstone Design 공모전에서 개발하는 "Find Cloth"라는 클라이언트 서버 프로젝트의 서버입니다.      
