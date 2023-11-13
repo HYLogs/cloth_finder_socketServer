@@ -2,3 +2,6 @@
 __pycache__/
 cosinSimilarity/__pycache__
 module/__pycache__
+
+# 파일 무시
+result/404_시연영상_원본.mp4
