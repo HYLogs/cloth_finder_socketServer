@@ -7,9 +7,10 @@ https://github.com/HYLogs/cloth_finder_socketServer/assets/81233061/0a401c3f-9d1
 TV나 인터넷에서 어떤 옷의 정보가 궁금할 때 사용자가 간편하게 이미지로 옷의 정보와 구매 사이트로 연결해주는 서비스입니다.   
 
 - 클라이언트 GitHub: ["https://github.com/HYLogs/cloth_finder_client"](https://github.com/HYLogs/cloth_finder_client)
+- 유사도 측정 모듈: ["https://github.com/HYLogs/CosinSimilarity_FinetuningModel"](https://github.com/HYLogs/CosinSimilarity_FinetuningModel)
 
 ## 팀 인원
-- 박찬규: `JAVA Native Andriod`, `Front End`
+- 박찬규: `Front End`, `JAVA Native Andriod`
 - 유현승: `AI`, `YoloV5`
 - 이한영: `AI`, `MobileNeV2`, `JAVA Python socket Connet`, `Back End`
  
